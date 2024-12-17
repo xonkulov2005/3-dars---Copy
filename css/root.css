@@ -1,0 +1,18 @@
+:root {
+  --body-fs: 1.6rem;
+  --body-lh: 1.5;
+  --text-fs: 1.4rem;
+  --text-lh: 1.42;
+  --h2-fs: 1.6rem;
+  --h2-lh: 1.75;
+  --main-ff: "Poppins", sans-serif;
+
+  /* COLORS */
+  --color-dark: #232536;
+  --color-secondary-blue: #4f56ff;
+  --color-accent-yellow: #ffd3af;
+  --color-white: #ffffff;
+  --color-accent-orange: #ffa155;
+  --color-accent-blue: #666dff;
+  --color-white-opacity-40: rgba(255, 255, 255, 0.4);
+}
